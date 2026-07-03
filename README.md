@@ -67,11 +67,17 @@
 ## 🎯 Current Focus
 
 🌸  Building real-world web projects with HTML, CSS & JavaScript
+
 🧩  Practicing DSA and sharpening problem-solving with Java
+
 📚  Deepening core Computer Science Engineering fundamentals
+
 🤖  Exploring AI tools and integrating them into development workflow
+
 🚀  Learning modern best practices in software development
+
 💡  Working on personal projects to grow my GitHub portfolio
+
 🌐  Understanding how frontend and backend systems connect
 ---
 ## 📊 GitHub Stats

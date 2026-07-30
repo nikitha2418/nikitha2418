@@ -81,16 +81,50 @@
 🌐  Understanding how frontend and backend systems connect
 ---
 ## 📊 GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikitha2418&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=F472B6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha2418&layout=compact&langs_count=8&theme=tokyonight&border_color=F472B6"/>
-</div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikitha2418&theme=tokyonight&border=F472B6&ring=F472B6&fire=FF6B9D)](https://git.io/streak-stats)
 
 </div>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitha2418/nikitha2418/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitha2418/nikitha2418/output/github-snake.svg" />
+  <img alt="Nikitha's contribution graph" src="https://raw.githubusercontent.com/nikitha2418/nikitha2418/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ─────────────────────────────────────────────────────────────────────
+     SELF-HOSTED STATS CARDS
+
+     These replace the old github-readme-stats.vercel.app cards, which
+     were returning HTTP 503 because that shared public instance is
+     permanently over its rate limit.
+
+     TO ENABLE:
+       1. Create a CLASSIC personal access token (NOT fine-grained -
+          GitHub does not accept fine-grained tokens for the GraphQL API
+          that this needs). No scopes are required for public stats.
+          https://github.com/settings/tokens
+       2. Add it to this repo as a secret named METRICS_TOKEN:
+          https://github.com/nikitha2418/nikitha2418/settings/secrets/actions
+       3. Run the "Generate GitHub Metrics" workflow from the Actions tab.
+       4. Delete the two comment markers around the block below.
+     ─────────────────────────────────────────────────────────────────────
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nikitha2418/nikitha2418/main/metrics.overview.svg" alt="GitHub metrics overview" />
+<img src="https://raw.githubusercontent.com/nikitha2418/nikitha2418/main/metrics.languages.svg" alt="Most used languages" />
+</div>
+
+-->
+
 
 ---
 

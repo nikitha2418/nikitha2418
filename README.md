@@ -79,44 +79,6 @@
 💡  Working on personal projects to grow my GitHub portfolio
 
 🌐  Understanding how frontend and backend systems connect
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikitha2418&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitha2418&theme=tokyonight" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikitha2418&theme=tokyonight" alt="Most committed language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikitha2418&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikitha2418&theme=tokyonight&border=F472B6&ring=F472B6&fire=FF6B9D&cb=1)](https://git.io/streak-stats)
-
-</div>
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikitha2418/nikitha2418/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikitha2418/nikitha2418/output/github-snake.svg" />
-  <img alt="Nikitha's contribution graph" src="https://raw.githubusercontent.com/nikitha2418/nikitha2418/output/github-snake.svg" />
-</picture>
-
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha2418&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-</div>
-
 
 ---
 

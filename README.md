@@ -110,7 +110,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn"/>
 
-_"She believed she could, so she did." 💫_
+_"She believed she could, so she did." 💫✨_
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nikitha2418.nikitha2418)
 

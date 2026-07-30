@@ -1,0 +1,40 @@
+name: Generate Snake Contribution Graph
+
+# Renders your contribution graph as an animated snake.
+# Needs NO personal access token - it reads the public contribution graph
+# and only needs write access to push the result to the "output" branch.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "metrics.*.svg"
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Published to a separate "output" branch, so this never retriggers main.
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

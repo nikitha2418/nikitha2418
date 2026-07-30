@@ -84,7 +84,16 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikitha2418&theme=tokyonight&border=F472B6&ring=F472B6&fire=FF6B9D)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikitha2418&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitha2418&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikitha2418&theme=tokyonight" alt="Most committed language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikitha2418&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikitha2418&theme=tokyonight&border=F472B6&ring=F472B6&fire=FF6B9D&cb=1)](https://git.io/streak-stats)
 
 </div>
 
@@ -100,30 +109,13 @@
 
 </div>
 
-<!-- ─────────────────────────────────────────────────────────────────────
-     SELF-HOSTED STATS CARDS
-
-     These replace the old github-readme-stats.vercel.app cards, which
-     were returning HTTP 503 because that shared public instance is
-     permanently over its rate limit.
-
-     TO ENABLE:
-       1. Create a CLASSIC personal access token (NOT fine-grained -
-          GitHub does not accept fine-grained tokens for the GraphQL API
-          that this needs). No scopes are required for public stats.
-          https://github.com/settings/tokens
-       2. Add it to this repo as a secret named METRICS_TOKEN:
-          https://github.com/nikitha2418/nikitha2418/settings/secrets/actions
-       3. Run the "Generate GitHub Metrics" workflow from the Actions tab.
-       4. Delete the two comment markers around the block below.
-     ─────────────────────────────────────────────────────────────────────
+### 📈 Activity Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nikitha2418/nikitha2418/main/metrics.overview.svg" alt="GitHub metrics overview" />
-<img src="https://raw.githubusercontent.com/nikitha2418/nikitha2418/main/metrics.languages.svg" alt="Most used languages" />
-</div>
 
--->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha2418&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+
+</div>
 
 
 ---
